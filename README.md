@@ -2,7 +2,9 @@
 
 ![ALI_FRM](https://user-images.githubusercontent.com/105715834/233074036-6aa49f97-6488-4c67-b1c5-80e25bf45479.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrmf&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrmf&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifrmf&show_icons=true&theme=radical)](https://github.com/alifrmf)
 
 ## 🛠️ Skills
 
