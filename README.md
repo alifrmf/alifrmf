@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrmf&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifrmf&show_icons=true&theme=radical)](https://github.com/alifrmf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifrmf&show_icons=true&theme=radical)]
 
 ## 🛠️ Skills
 
