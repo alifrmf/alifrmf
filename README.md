@@ -25,7 +25,3 @@
 ## 🔗 Links
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alifrmf)
 [![kaggle](	https://img.shields.io/badge/kaggle-2EBAF4?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alifarahmandfar)
-
-### Check out articles
-
-<a target="_blank" href="[https://github-readme-medium-recent-article.vercel.app/medium/@avi_chawla/0](https://medium.com/mlearning-ai/what-a-data-scientist-should-know-about-machine-learning-kernels-4066f02d1f26)"><img src="[https://github-readme-medium-recent-article.vercel.app/medium/@avi_chawla/0](https://medium.com/mlearning-ai/what-a-data-scientist-should-know-about-machine-learning-kernels-4066f02d1f26)" alt="Recent Article 0"> 
