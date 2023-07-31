@@ -1,3 +1,7 @@
+<p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hey,+There!+👋>;<This+is+Ali!>;<Glad+to+meet+you!>">
+</a></hp>
+
 # Hello, folks! This is Ali. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![ALI_FRM](https://user-images.githubusercontent.com/105715834/233074036-6aa49f97-6488-4c67-b1c5-80e25bf45479.png)
