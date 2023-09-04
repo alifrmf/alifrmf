@@ -70,7 +70,7 @@
 
 ##
 
-> **🔘What a data scientist should know about machine learning kernels?🔘**
+> **🔘What a Data Scientist Should Know about Machine Learning Kernels?🔘**
 > 
 > [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*Pm9NbxAYf80Bayu2)](https://medium.com/mlearning-ai/what-a-data-scientist-should-know-about-machine-learning-kernels-4066f02d1f26)
 > 
