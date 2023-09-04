@@ -30,27 +30,36 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
+### <span style="font-family: Arial;">Tools:</span>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23025E8C.svg?style=for-the-badge&logo=tableau&logoColor=white)
+
 ### <span style="font-family: Arial;">Other:</span>
 ![git](https://img.shields.io/badge/Git-DC322F?style=for-the-badge&logo=Git&logoColor=white)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-4C0082?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-
+##
 <h3 align="center">Follow Me On:</h3>
+
 <p align='center'>
 <a href="https://www.kaggle.com/alifarahmandfar"><img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@ali.farahmandfar"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
 </p>
-                                                   
-<h3 align="center">Mail:</h3>
-<a href="ali.farahmand101@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
+                                                 
+##
+<h3 align="center">Contact Me:</h3>
 
+<a href="ali.farahmand101@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;                                       
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v4.png)](https://t.me/your_telegram_username)
+                                         
 ---
 
-## <span style="font-family: Arial;">Here's a preview of my latest Medium articles:</span>
+## <span style="font-family: Arial;">✍️Here's a preview of my latest Medium articles:</span>
 
-> **A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models**
+> **🔘A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models🔘**
 > 
 > [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*n4Dr2ttMux5XFLpr)](https://levelup.gitconnected.com/a-comprehensive-analysis-of-hyperparameter-optimization-in-logistic-regression-models-521564c1bfc0)
 > 
@@ -60,7 +69,7 @@
 
 ##
 
-> **What a data scientist should know about machine learning kernels?**
+> **🔘What a data scientist should know about machine learning kernels?🔘**
 > 
 > [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*Pm9NbxAYf80Bayu2)](https://medium.com/mlearning-ai/what-a-data-scientist-should-know-about-machine-learning-kernels-4066f02d1f26)
 > 
