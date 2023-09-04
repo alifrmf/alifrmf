@@ -9,9 +9,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifrmf&show_icons=true&theme=radical)
 
+---
 
-
-## <span style="font-family: Arial;">🛠️ Skills</span>
+## <span style="font-family: Arial;">🛠️Skills🛠️</span>
 
 ### <span style="font-family: Arial;">Languages:</span>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -20,8 +20,8 @@
 ### <span style="font-family: Arial;">Frameworks & Libraries:</span>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%add8e6.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
@@ -32,6 +32,9 @@
 
 ### <span style="font-family: Arial;">Other:</span>
 ![git](https://img.shields.io/badge/Git-DC322F?style=for-the-badge&logo=Git&logoColor=white)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-4C0082?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
 <h3 align="center">Follow Me On:</h3>
@@ -41,3 +44,14 @@
 <a href="https://medium.com/@ali.farahmandfar"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
+---
+
+[![Read my Medium article](https://miro.medium.com/max/700/IMAGE_URL_HERE)](MEDIUM_ARTICLE_URL_HERE)
+
+Here's a preview of my latest Medium article:
+
+> **Article Title**
+> 
+> This is a brief description of the article content. It provides readers with an overview of what they can expect when they click the link.
+> 
+> Read the full article on [Medium](MEDIUM_ARTICLE_URL_HERE).
