@@ -58,6 +58,7 @@
 ---
 
 ## <span style="font-family: Arial;">✍️Here's a preview of my latest Medium articles:</span>
+![Medium_logo0](https://github.com/alifrmf/alifrmf/assets/105715834/c6fde602-9164-4b1a-bdd1-794f2704bddf)
 
 > **🔘A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models🔘**
 > 
