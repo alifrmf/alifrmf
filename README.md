@@ -40,9 +40,11 @@
 <h3 align="center">Follow Me On:</h3>
 <p align='center'>
 <a href="https://www.kaggle.com/alifarahmandfar"><img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>&nbsp;&nbsp;
-<a href="ali.farahmand101@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@ali.farahmandfar"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
 </p>
+                                                   
+<h3 align="center">Mail:</h3>
+<a href="ali.farahmand101@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
 
 ---
 
