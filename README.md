@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### <span style="font-family: Arial;">Frameworks & Libraries:</span>
+### <span style="font-family: Arial;">Libraries & Frameworks:</span>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
@@ -46,7 +46,7 @@
 
 ---
 
-## <span style="font-family: Arial;">Here's a preview of my latest Medium article:</span>
+## <span style="font-family: Arial;">Here's a preview of my latest Medium articles:</span>
 
 > **A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models**
 > 
