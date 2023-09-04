@@ -46,12 +46,12 @@
 
 ---
 
-[![Read my Medium article](https://miro.medium.com/max/700/IMAGE_URL_HERE)](MEDIUM_ARTICLE_URL_HERE)
+## <span style="font-family: Arial;">Here's a preview of my latest Medium article:</span>
+##
 
-Here's a preview of my latest Medium article:
-
-> **Article Title**
+> **A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models**
+> [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*n4Dr2ttMux5XFLpr)](https://levelup.gitconnected.com/a-comprehensive-analysis-of-hyperparameter-optimization-in-logistic-regression-models-521564c1bfc0)
 > 
-> This is a brief description of the article content. It provides readers with an overview of what they can expect when they click the link.
+> In this article, we will follow a systematic approach to fine-tune the logistic regression algorithm’s hyperparameters. Our process will consist of the following steps: 1. Manually adjusting each hyperparameter, 2. Evaluating the impact of each hyperparameter on the model’s accuracy, 3. Identifying optimal values for the hyperparameters. Once we have determined the best hyperparameters, we will compare the performance of various models using these optimal values. Finally, we will provide a comprehensive analysis of the effectiveness of hyperparameter tuning in enhancing the model’s performance.
 > 
-> Read the full article on [Medium](MEDIUM_ARTICLE_URL_HERE).
+> Read the full article on [Medium](https://levelup.gitconnected.com/a-comprehensive-analysis-of-hyperparameter-optimization-in-logistic-regression-models-521564c1bfc0).
