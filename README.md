@@ -5,9 +5,10 @@
 
 ![ALI_FRM](https://user-images.githubusercontent.com/105715834/233074036-6aa49f97-6488-4c67-b1c5-80e25bf45479.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alifrmf&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifrmf&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifrmf&show_icons=true&theme=radical" width="42%" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifrmf&show_icons=true&theme=radical" width="32%" alt="Top Langs">
+</div>
 
 ---
 
@@ -56,10 +57,11 @@
 [![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v4.png)](https://t.me/your_telegram_username)
                                          
 ---
+<h3 align="center">✍️Here's a preview of my latest Medium articles:</h3>
 
-## <span style="font-family: Arial;">✍️Here's a preview of my latest Medium articles:</span>
 ![Medium_logo0](https://github.com/alifrmf/alifrmf/assets/105715834/c6fde602-9164-4b1a-bdd1-794f2704bddf)
 
+## 
 > **🔘A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models🔘**
 > 
 > [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*n4Dr2ttMux5XFLpr)](https://levelup.gitconnected.com/a-comprehensive-analysis-of-hyperparameter-optimization-in-logistic-regression-models-521564c1bfc0)
