@@ -53,8 +53,8 @@
 ##
 <h3 align="center">Contact Me:</h3>
 
-<a href="ali.farahmand101@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;                                       
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v4.png)](https://t.me/your_telegram_username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://ali.farahmand101@gmail.com)                                       
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v4.png)](https://t.me/alifrm5)
                                          
 ---
 <h3 align="center">✍️Here's a preview of my latest Medium articles:</h3>
