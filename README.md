@@ -64,8 +64,6 @@
 ## 
 > **🔘A Comprehensive Analysis of Hyperparameter Optimization in Logistic Regression Models🔘**
 > 
-> [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*n4Dr2ttMux5XFLpr)](https://levelup.gitconnected.com/a-comprehensive-analysis-of-hyperparameter-optimization-in-logistic-regression-models-521564c1bfc0)
-> 
 > In this article, we will follow a systematic approach to fine-tune the logistic regression algorithm’s hyperparameters. Our process will consist of the following steps: 1. Manually adjusting each hyperparameter, 2. Evaluating the impact of each hyperparameter on the model’s accuracy, 3. Identifying optimal values for the hyperparameters. Once we have determined the best hyperparameters, we will compare the performance of various models using these optimal values. Finally, we will provide a comprehensive analysis of the effectiveness of hyperparameter tuning in enhancing the model’s performance.
 > 
 > Read the full article on [Medium](https://levelup.gitconnected.com/a-comprehensive-analysis-of-hyperparameter-optimization-in-logistic-regression-models-521564c1bfc0).
@@ -73,8 +71,6 @@
 ##
 
 > **🔘What a Data Scientist Should Know about Machine Learning Kernels?🔘**
-> 
-> [![Read my Medium article](https://miro.medium.com/max/700/https://miro.medium.com/v2/resize:fit:828/0*Pm9NbxAYf80Bayu2)](https://medium.com/mlearning-ai/what-a-data-scientist-should-know-about-machine-learning-kernels-4066f02d1f26)
 > 
 > This article provides an overview of the concept of kernels in machine learning. It explains what kernels are and their purpose in transforming input data into a higher-dimensional space where patterns are easier to identify and classify. The article describes different types of kernels including linear, polynomial, Gaussian, sigmoid, Laplacian, cosine similarity, and histogram intersection kernels. It also discusses the limitations of kernels and the importance of hyperparameter tuning in kernel-based algorithms.
 > 
